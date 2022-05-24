@@ -3,7 +3,7 @@
 Um projetinho que tava testando com a Majuh, e deu certo de inicio
 
 
-http://robertoweller/pirata-fil-seri
+http://robertoweller.github.io/pirata-fil-seri
 
 
 The End of the Fucking World
